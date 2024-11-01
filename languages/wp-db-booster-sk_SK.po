@@ -1,0 +1,929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP DB Booster 1.0.0\n"
+"POT-Creation-Date: 2016-01-21 09:38+0100\n"
+"PO-Revision-Date: 2016-01-22 11:09+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-wp-db-booster-admin.php:56
+msgid "Auto Draft"
+msgstr "Automatický Koncept"
+
+#: admin/class-wp-db-booster-admin.php:57
+msgid ""
+"Auto Draft are the Page / Post saved as draft automatically in WordPress "
+"Database."
+msgstr ""
+"Auto koncept je Stránka/Článok uložený ako koncept automaticky vo Wordpress "
+"Databáze."
+
+#: admin/class-wp-db-booster-admin.php:61
+msgid "Posts in Trash"
+msgstr "Články v Koši"
+
+#: admin/class-wp-db-booster-admin.php:62
+msgid "Posts in Trash are posts that have been deleted and moved to Trash."
+msgstr "Články v Koši sú články, ktoré boli zmazané a premiestnené do Koša"
+
+#: admin/class-wp-db-booster-admin.php:66
+msgid "Dashboard Transient Feed"
+msgstr "Dashboard Prechodné Zdroje"
+
+#: admin/class-wp-db-booster-admin.php:67
+msgid ""
+"Transient Feed in WordPress are use Database entries to cache a certain "
+"entries."
+msgstr ""
+"Prechodné zdroje vo WordPress sú Databázové záznamy, ktoré obsahujú záznamy "
+"položiek uložených do vyrovnávacej pamäte."
+
+#: admin/class-wp-db-booster-admin.php:76
+msgid "Orphan Comment Meta"
+msgstr "Osirotené Meta informácie komentárov"
+
+#: admin/class-wp-db-booster-admin.php:77
+msgid ""
+"Orphan Comments Meta holds the miscellaneous bits of extra information of "
+"comment."
+msgstr ""
+"Osirotené Meta Informácie Komentárov držia rôzne kúsky dodatočných "
+"informácií o komentároch."
+
+#: admin/class-wp-db-booster-admin.php:81
+msgid "Duplicated Comment Meta"
+msgstr "Duplicitné Osirotené Meta informácie Komentárov"
+
+#: admin/class-wp-db-booster-admin.php:82
+msgid "Duplicated Comment Meta holds duplicated comment meta information"
+msgstr ""
+"Duplicitné Meta Komentárov obsahujú duplicitné meta informácie komentárov "
+
+#: admin/class-wp-db-booster-admin.php:86
+msgid "Orphan Post Meta"
+msgstr "Osirotené Meta Informácie Článkov"
+
+#: admin/class-wp-db-booster-admin.php:87
+msgid "Orphan Post Meta holds the junk or obsolete data."
+msgstr ""
+"Osirotené Meta Informácie Článkov držia nevyžiadané alebo zastaralé údaje."
+
+#: admin/class-wp-db-booster-admin.php:91
+msgid "Duplicated Post Meta"
+msgstr "Duplicitné Meta Informácie Článkov"
+
+#: admin/class-wp-db-booster-admin.php:92
+msgid "Duplicated Post Meta holds duplicated post meta information"
+msgstr "Duplicitné Meta Článkov obsahujú duplicitné meta informácie článkov"
+
+#: admin/class-wp-db-booster-admin.php:96
+msgid "Orphan User Meta"
+msgstr "Osirotené Meta Informácie Užívateľov"
+
+#: admin/class-wp-db-booster-admin.php:97
+msgid "Orphan User Meta holds the junk or obsolete data."
+msgstr ""
+"Osirotené Meta Informácie Užívateľov držia nevyžiadané alebo zastaralé údaje."
+
+#: admin/class-wp-db-booster-admin.php:101
+msgid "Duplicated User Meta"
+msgstr "Duplicitné Meta Informácie Užívateľov"
+
+#: admin/class-wp-db-booster-admin.php:102
+msgid "Duplicated User Meta holds duplicated user meta information"
+msgstr ""
+"Duplicitné Meta Užívateľov obsahujú duplicitné meta informácie užívateľov"
+
+#: admin/class-wp-db-booster-admin.php:106
+msgid "Orphan Term Meta"
+msgstr "Osirotené Meta Informácie Výrazov"
+
+#: admin/class-wp-db-booster-admin.php:107
+msgid "Orphan Term Meta holds the junk or obsolete data."
+msgstr ""
+"Osirotené Meta Informácie Výrazov držia nevyžiadané alebo zastaralé údaje."
+
+#: admin/class-wp-db-booster-admin.php:111
+msgid "Duplicated Term Meta"
+msgstr "Duplicitné Meta Informácie Výrazov"
+
+#: admin/class-wp-db-booster-admin.php:112
+msgid "Duplicated Term Meta holds duplicated term meta information"
+msgstr "Duplicitné Meta Vzťahov obsahujú duplicitné meta informácie vzťahov"
+
+#: admin/class-wp-db-booster-admin.php:116
+msgid "Orphan Term Relationships"
+msgstr "Osirotené Výrazy Vzťahov"
+
+#: admin/class-wp-db-booster-admin.php:117
+msgid "Orphan Relationships holds the junk or obsolete Category and Tag."
+msgstr "Osirotené Vzťahy držia nevyžiadané alebo zastaralé Kategórie a Značky."
+
+#: admin/class-wp-db-booster-admin.php:121
+msgid "Unused Tags"
+msgstr "Nevyužité Značky"
+
+#: admin/class-wp-db-booster-admin.php:122
+msgid "Unused Tags holds the junk or obsolete Category and Tag."
+msgstr "Osirotené Značky držia nevyžiadané alebo zastaralé Kategórie a Značky."
+
+#: admin/class-wp-db-booster-admin.php:126
+msgid "Revisions"
+msgstr "Revízie"
+
+#: admin/class-wp-db-booster-admin.php:127
+msgid ""
+"The WordPress revisions system stores a record of each saved draft or "
+"published update.Revisions are stored in the posts table."
+msgstr ""
+"WordPress revízny systém uloží záznam o každom uloženom návrhu alebo "
+"publikovanej zmene. Revízie sú uložené v tabuľke článkov."
+
+#: admin/class-wp-db-booster-admin.php:131
+msgid "Pingbacks"
+msgstr "Pingback-y"
+
+#: admin/class-wp-db-booster-admin.php:132
+msgid ""
+"A Pingback is a type of comment that's created when you link to another blog "
+"post where pingbacks are enabled."
+msgstr ""
+"Pingback je typ komentára, ktorý je vytvorený, keď ste odkazovali na iný "
+"blog, kde sú pingback-y povolené."
+
+#: admin/class-wp-db-booster-admin.php:136
+msgid "Transient Options"
+msgstr "Prechodné možnosti"
+
+#: admin/class-wp-db-booster-admin.php:137
+msgid ""
+"Transient Options are like a basic cache system used by wordpress. Clearing "
+"these options before a backup will help to save space in your backup files."
+msgstr ""
+"Prechodné možnosti sú niečo ako cache systém používaný Wordpressom. "
+"Vymazanie týchto možností pred zálohou pomôže ušetriť miesto v zálohových "
+"súboroch."
+
+#: admin/class-wp-db-booster-admin.php:141
+msgid "Trackbacks"
+msgstr "Trackback-y"
+
+#: admin/class-wp-db-booster-admin.php:142
+msgid ""
+"Trackbacks are a way to notify legacy blog systems that you have linked to "
+"them. If you link to a WordPress blog they will be notified automatically "
+"using pingbacks, no other action necessary."
+msgstr ""
+"Spätné odkazy sú spôsob, ako oznámiť blogom, že ste na ne odkazovali. Ak ste "
+"odkazovali na blogy WordPress budú tieto oboznámené automaticky použitím "
+"pingback-ov, žiadne iné opatrenia nie sú potrebné."
+
+#: admin/class-wp-db-booster-admin.php:146
+msgid "Unaproved Comments"
+msgstr "Neschválené Komentáre"
+
+#: admin/class-wp-db-booster-admin.php:147
+msgid "Unaproved Comments are the comments waiting for moderation."
+msgstr "Neschválene komentáre su komentáre čakajuce na  moderovanie."
+
+#: admin/class-wp-db-booster-admin.php:151
+msgid "Spam Comments"
+msgstr "Spam Komentáre"
+
+#: admin/class-wp-db-booster-admin.php:152
+msgid "Spam Comments are the unwanted comments in the WordPress database."
+msgstr "Spam Komentáre sú nechcené komentáre vo Wordpress databáze."
+
+#: admin/class-wp-db-booster-admin.php:156
+msgid "Trash Comments"
+msgstr "Komentáre v Koši"
+
+#: admin/class-wp-db-booster-admin.php:157
+msgid ""
+"Trash Comments are the comments which are stored in the WordPress Trash."
+msgstr "Komentáre v Koši sú komentáre, ktoré boli vymazané do Wordpress Koša."
+
+#: admin/class-wp-db-booster-admin.php:161
+msgid "oEmbed Caches In Post Meta"
+msgstr "oEmbed Vyrovnávacia Pamäť v Post Meta"
+
+#: admin/class-wp-db-booster-admin.php:162
+msgid ""
+"oEmbed Is used by Wordpress to grab embed code for various embeddable "
+"content such as YouTube and Vimeo videos"
+msgstr ""
+"oEmbed Vyrovnávaciu Pamäť používaná Wordpress na odchytenie kódu pre rôzny "
+"zabudovateľný obsah ako sú Youtube a Vimeo videá."
+
+#: admin/class-wp-db-booster-admin.php:232
+msgid "Are you sure, you want to Clean Up these data?"
+msgstr "Naozaj chcete zmazať tieto dáta?"
+
+#: admin/class-wp-db-booster-admin.php:233
+msgid "Please select action first"
+msgstr "Prosím, vyberte akciu."
+
+#: admin/class-wp-db-booster-admin.php:241
+#: admin/class-wp-db-booster-admin.php:254
+#: admin/partials/wp-db-booster-admin-display.php:36
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: admin/class-wp-db-booster-admin.php:249
+#: admin/partials/wp-db-booster-admin-display.php:31
+msgid "Dashboard"
+msgstr "Nástenka"
+
+#: admin/class-wp-db-booster-admin.php:250
+#: admin/partials/wp-db-booster-admin-display.php:32
+msgid "DB Tables"
+msgstr "DB Tabuľky"
+
+#: admin/class-wp-db-booster-admin.php:251
+#: admin/partials/wp-db-booster-admin-display.php:33
+msgid "Log"
+msgstr "Log"
+
+#: admin/class-wp-db-booster-admin.php:252
+#: admin/partials/wp-db-booster-admin-display.php:34
+msgid "Statistics"
+msgstr "Štatistiky"
+
+#: admin/class-wp-db-booster-admin.php:253
+#: admin/partials/wp-db-booster-admin-display.php:35
+msgid "System Status"
+msgstr "Status Systému"
+
+#: admin/class-wp-db-booster-helper.php:203
+msgid "Very Strong"
+msgstr "Veľmi silné "
+
+#: admin/class-wp-db-booster-helper.php:207
+msgid "Strong"
+msgstr "Silne"
+
+#: admin/class-wp-db-booster-helper.php:210
+msgid "Average"
+msgstr "Priemerné"
+
+#: admin/class-wp-db-booster-helper.php:213
+msgid "Weak"
+msgstr "Slabé"
+
+#: admin/class-wp-db-booster-helper.php:216
+msgid "Very Weak"
+msgstr "Veľmi Slabé"
+
+#: admin/class-wp-db-booster-helper.php:349
+#: admin/class-wp-db-booster-helper.php:493
+msgid "nothing"
+msgstr "nič"
+
+#: admin/class-wp-db-booster-helper.php:508
+msgid "OK"
+msgstr "OK"
+
+#: admin/class-wp-db-booster-helper.php:509
+msgid "BAD"
+msgstr "ZLE"
+
+#: admin/class-wp-db-booster-helper.php:549
+msgid "password is empty"
+msgstr "heslo je prázdne"
+
+#: admin/class-wp-db-booster-helper.php:555
+msgid "password is a word from the dictionary"
+msgstr "heslo je slovo zo slovnika bežných hesiel"
+
+#: admin/class-wp-db-booster-helper.php:558
+msgid "password is too short"
+msgstr "heslo je príliš krátke"
+
+#: admin/class-wp-db-booster-helper.php:561
+msgid "password is too simple"
+msgstr "heslo je príliš jednoduché"
+
+#: admin/partials/tabs/dashboard.php:33
+msgid "Issues Found"
+msgstr "Nájdených Problémov"
+
+#: admin/partials/tabs/dashboard.php:35
+msgid "Minnor issues: "
+msgstr "Minoritné problémy"
+
+#: admin/partials/tabs/dashboard.php:55
+msgid "Tables in Database"
+msgstr "Tabuliek v Databáze"
+
+#: admin/partials/tabs/dashboard.php:58 admin/partials/tabs/dashboard.php:75
+msgid "View more"
+msgstr "Zobraziť viac"
+
+#: admin/partials/tabs/dashboard.php:73
+msgid "Items in Log"
+msgstr "Položiek v Logu"
+
+#: admin/partials/tabs/dashboard.php:86 admin/partials/tabs/dashboard.php:139
+#: admin/partials/tabs/log.php:95
+msgid "Bulk Action"
+msgstr "Hromadná Akcia"
+
+#: admin/partials/tabs/dashboard.php:87 admin/partials/tabs/dashboard.php:118
+#: admin/partials/tabs/dashboard.php:120 admin/partials/tabs/dashboard.php:140
+#: admin/partials/tabs/dashboard.php:171 admin/partials/tabs/dashboard.php:173
+msgid "Empty"
+msgstr "Vymazať"
+
+#: admin/partials/tabs/dashboard.php:90 admin/partials/tabs/dashboard.php:143
+msgid "Apply"
+msgstr "Použiť"
+
+#: admin/partials/tabs/dashboard.php:98 admin/partials/tabs/dashboard.php:151
+#: admin/partials/tabs/settings.php:77
+msgid "Type of Data"
+msgstr "Datový Typ"
+
+#: admin/partials/tabs/dashboard.php:99 admin/partials/tabs/dashboard.php:152
+msgid "Count"
+msgstr "Počet"
+
+#: admin/partials/tabs/dashboard.php:100 admin/partials/tabs/dashboard.php:153
+#: admin/partials/tabs/log.php:109
+msgid "Action"
+msgstr "Akcia"
+
+#: admin/partials/tabs/dashboard.php:133
+msgid ""
+"Data in the table below may change frequently. Most of them are temporary "
+"data created either by 3rd party plugins or Wordpress itself."
+msgstr ""
+"Údaje v tabuľke nižšie sa možu často meniť. Väčšina z nich sú údaje "
+"vytvorené buď modulmi tretích strán, alebo samotným Wordpressom. "
+
+#: admin/partials/tabs/dashboard.php:187
+msgid "Database Related Security Tests"
+msgstr "Testy Bezpečnosti Zamerané na Databázu"
+
+#: admin/partials/tabs/dashboard.php:194
+msgid ""
+"Knowing the names of your database tables can help an attacker dump the "
+"table's data and get to sensitive information like password hashes. Since WP "
+"table names are predefined the only way you can change table names is by "
+"using a unique prefix. One that's different from 'wp_' or any similar "
+"variation such as 'wordpress_'."
+msgstr ""
+"Znalosť názvov vašich tabuliek v databáze môže pomôcť útočníkovi získať "
+"výpisy údajov z tabuľky a získať citlivé informácie, ako napríklad hash "
+"hesla. Vzhľadom k tomu, že WP tabuľky majú názvy preddefinované, jediný "
+"spôsob, ako môžete zmeniť názvy tabuliek, je pomocou jedinečnej predpony. "
+"Taká, ktorá je odlišná od 'wp_’ a jej variácií, ako napríklad ‘wordpress_'."
+
+#: admin/partials/tabs/dashboard.php:194
+msgid "Default Table Prefix"
+msgstr "Východzie Nastavenie Predpony Tabuliek"
+
+#: admin/partials/tabs/dashboard.php:199
+msgid ""
+"Having any kind of debug mode (general WP debug mode in this case) or error "
+"reporting mode enabled on a production server is extremely bad. Not only "
+"will it slow down your site, confuse your visitors with weird messages it "
+"will also give the potential attacker valuable information about your system."
+msgstr ""
+"Mať akýmkoľvek druh režimu ladenia (všeobecný WP debug mód v tomto prípade), "
+"alebo chybového hlásenia zapnutý na produkčnom serveri je veľmi zlé. Nielen, "
+"že to spomaluje vašu stránku, ale može zmiasť aj Vašich návštevníkov divnými "
+"správami a  poskytne potenciálnemu útočníkovi cenné informácie o vašom "
+"systéme.\n"
+"Parameter v súbore config.php : define('WP_DEBUG', false)"
+
+#: admin/partials/tabs/dashboard.php:199
+msgid "Debug Mode"
+msgstr "Debug Mód"
+
+#: admin/partials/tabs/dashboard.php:205
+msgid ""
+"Having any kind of debug mode (WP DB debug mode in this case) or error "
+"reporting mode enabled on a production server is extremely bad. Not only "
+"will it slow down your site, confuse your visitors with weird messages it "
+"will also give the potential attacker valuable information about your system."
+msgstr ""
+"Mať akýmkoľvek druh režimu ladenia (WP DB debug mód v tomto prípade), alebo "
+"chybového hlásenia zapnutý na produkčnom serveri je veľmi zlé. Nielen, že to "
+"spomaluje vašu stránku, ale može zmiasť aj Vašich návštevníkov divnými "
+"správami a  poskytne potenciálnemu útočníkovi cenné informácie o vašom "
+"systéme."
+
+#: admin/partials/tabs/dashboard.php:205
+msgid "Database Debug Mode"
+msgstr "Debug Mód Databázy"
+
+#: admin/partials/tabs/dashboard.php:211
+msgid ""
+"We have tested your DB password against more than 1450 most commonly used "
+"passwords on the internet"
+msgstr ""
+"Otestovali sme Vaše heslo do Databázy oproti viac ako 1450 najviac "
+"používaným heslám na internete."
+
+#: admin/partials/tabs/dashboard.php:211
+msgid "Common Passwords Test"
+msgstr "Test na Často Používané Heslá"
+
+#: admin/partials/tabs/dashboard.php:220
+#, php-format
+msgid "Your calculated password strength is %s which is %s"
+msgstr "Vaša vypočítaná odolnosť hesla je %s čo je %s"
+
+#: admin/partials/tabs/dashboard.php:223
+msgid "Password Strength"
+msgstr "Odolnosť Hesla"
+
+#: admin/partials/tabs/dbtables.php:34
+msgid "Table"
+msgstr "Tabuľka"
+
+#: admin/partials/tabs/dbtables.php:35 admin/partials/tabs/statistics.php:52
+msgid "Rows"
+msgstr "Riadkov"
+
+#: admin/partials/tabs/dbtables.php:36
+msgid "Type"
+msgstr "Typ"
+
+#: admin/partials/tabs/dbtables.php:37
+msgid "Size"
+msgstr "Veľkosť"
+
+#: admin/partials/tabs/dbtables.php:38
+msgid "Index Size"
+msgstr "Veľkosť Indexu"
+
+#: admin/partials/tabs/dbtables.php:39
+msgid "Created By"
+msgstr "Vytvorená"
+
+#: admin/partials/tabs/dbtables.php:67
+msgid "Table added by 3rd party plugin"
+msgstr "Tabuľka pridaná modulom tretej strany"
+
+#: admin/partials/tabs/dbtables.php:73 admin/partials/tabs/dbtables.php:131
+msgid "WordPress Core Table"
+msgstr "Tabuľka WordPress Jadra"
+
+#: admin/partials/tabs/dbtables.php:112
+msgid "Plugin Activate"
+msgstr "Modul Aktívny"
+
+#: admin/partials/tabs/dbtables.php:117
+msgid "Plugin Inactive"
+msgstr "Modul Neaktívny"
+
+#: admin/partials/tabs/dbtables.php:126
+msgid "Table created by Unknown plugin"
+msgstr "Tabuľka vytvorená Neznámym modulom"
+
+#: admin/partials/tabs/dbtables.php:144
+msgid "Total"
+msgstr "Spolu"
+
+#: admin/partials/tabs/dbtables.php:145
+msgid "tables"
+msgstr "tabuliek"
+
+#: admin/partials/tabs/log.php:92
+msgid ""
+"Please keep in mind that Log keeps information about installed plugins and "
+"DB tables created by these plugins.<br>If you decide to clear the log this "
+"information will be lost."
+msgstr ""
+"Prosím, majte na pamäti, že Log udržuje informácie o inštalovaných moduloch "
+"a DB tabuľkách vytvorených týmito modulmi. <br>Ak vymažete Log, tieto "
+"informácie sa stratia."
+
+#: admin/partials/tabs/log.php:96
+msgid "All Entries"
+msgstr "Všetky Položky"
+
+#: admin/partials/tabs/log.php:97
+msgid "Plugin Activations/Deactivations"
+msgstr "Aktivácie/Deaktivácie Modulov"
+
+#: admin/partials/tabs/log.php:98
+msgid "Database Cleanups"
+msgstr "Čistenia Databázy"
+
+#: admin/partials/tabs/log.php:101
+msgid "Delete Log"
+msgstr "Zmazať Log"
+
+#: admin/partials/tabs/log.php:102
+msgid "Entries in Log"
+msgstr "Položky v Logu"
+
+#: admin/partials/tabs/log.php:108
+msgid "Detail"
+msgstr "Detail"
+
+#: admin/partials/tabs/log.php:110
+msgid "Date"
+msgstr "Dátum"
+
+#: admin/partials/tabs/log.php:122
+msgid "Plugin"
+msgstr "Modul"
+
+#: admin/partials/tabs/log.php:125
+msgid "Data type:"
+msgstr "Datový typ:"
+
+#: admin/partials/tabs/log.php:133 admin/partials/tabs/log.php:135
+msgid "Database Cleanup"
+msgstr "Čistenie Databázy"
+
+#: admin/partials/tabs/log.php:140 admin/partials/tabs/log.php:142
+#: admin/partials/tabs/statistics.php:3
+msgid "Plugin Activated"
+msgstr "Modul Aktivovaný"
+
+#: admin/partials/tabs/log.php:147 admin/partials/tabs/log.php:150
+#: admin/partials/tabs/statistics.php:4
+msgid "Plugin Deactivated"
+msgstr "Modul Deaktivovaný"
+
+#: admin/partials/tabs/settings.php:27
+msgid "Automatic Clean-Up and Optimization"
+msgstr "Automatické Čistenie a optimalizácia"
+
+#: admin/partials/tabs/settings.php:32
+msgid ""
+"You can enable scheduled clean-up and optimization of your Database here "
+"(daily/weekly/monthly)."
+msgstr ""
+"Tu môžete povoliť plánované vyčistenie a optimalizáciu databázy (denné/"
+"týždenné/mesačné)."
+
+#: admin/partials/tabs/settings.php:38
+msgid "Enable Scheduled Clean-Up and Optimization"
+msgstr "Povoliť plánované Čistenie a Optimalizáciu"
+
+#: admin/partials/tabs/settings.php:45
+msgid "Frequency"
+msgstr "Frekvencia"
+
+#: admin/partials/tabs/settings.php:51
+msgid "Everyday"
+msgstr "Denne"
+
+#: admin/partials/tabs/settings.php:53
+msgid "Every Week"
+msgstr "Týždenne"
+
+#: admin/partials/tabs/settings.php:55
+msgid "Every Month"
+msgstr "Mesačne"
+
+#: admin/partials/tabs/settings.php:61
+msgid "Enable Email Notification"
+msgstr "Povoliť notifikácie emailom"
+
+#: admin/partials/tabs/settings.php:68
+msgid "Email Address"
+msgstr "Emailová adresa"
+
+#: admin/partials/tabs/statistics.php:5
+msgid "CleanUp"
+msgstr "Čistenie"
+
+#: admin/partials/tabs/statistics.php:28
+msgid "DB Tables sorted by number of rows"
+msgstr "DB Tabuľky zoradené podľa počtu riadkov"
+
+#: admin/partials/tabs/statistics.php:31
+msgid "DB Tables sorted by size (bytes)"
+msgstr "DB Tabuľky zoradené podľa veľkosti"
+
+#: admin/partials/tabs/statistics.php:34
+msgid "Log Analysis"
+msgstr "Analýza Logu"
+
+#: admin/partials/tabs/statistics.php:76
+msgid "Size in Bytes"
+msgstr "Veľkosť v Bajtoch"
+
+#: admin/partials/tabs/statistics.php:99
+msgid "Actions in Log"
+msgstr "Akcií v Logu"
+
+#: admin/partials/tabs/systemstatus.php:14
+msgid "MySQL Information"
+msgstr "MySQL Informácie"
+
+#: admin/partials/tabs/systemstatus.php:20
+msgid "Database Host"
+msgstr "Host Databázy"
+
+#: admin/partials/tabs/systemstatus.php:24
+msgid "Database Name"
+msgstr "Názov Databázy"
+
+#: admin/partials/tabs/systemstatus.php:28
+msgid "Database User"
+msgstr "Databázový Užívateľ "
+
+#: admin/partials/tabs/systemstatus.php:32
+msgid "Database Size"
+msgstr "Veľkosť Databázy"
+
+#: admin/partials/tabs/systemstatus.php:36
+msgid "Number of DB Tables"
+msgstr "Počet DB Tabuliek"
+
+#: admin/partials/tabs/systemstatus.php:40
+msgid "Summary of Rows in all Tables"
+msgstr "Sumár Riadkov vo všetkých Tabuľkách"
+
+#: admin/partials/tabs/systemstatus.php:44
+msgid "Database Type"
+msgstr "Typ Databázy"
+
+#: admin/partials/tabs/systemstatus.php:48
+msgid "MySQL Version"
+msgstr "Verzia MySQL"
+
+#: admin/partials/tabs/systemstatus.php:54
+msgid "SQL Mode"
+msgstr "SQL Mod"
+
+#: admin/partials/tabs/systemstatus.php:59
+msgid "Not set"
+msgstr "Nenastavené"
+
+#: admin/partials/tabs/systemstatus.php:70
+msgid "Wordpress Information"
+msgstr "Wordpress Informácie"
+
+#: admin/partials/tabs/systemstatus.php:76
+msgid "Home URL"
+msgstr "Domáca URL"
+
+#: admin/partials/tabs/systemstatus.php:80
+msgid "Site URL"
+msgstr "URL Webu"
+
+#: admin/partials/tabs/systemstatus.php:84
+msgid "Web Server"
+msgstr "Web Server"
+
+#: admin/partials/tabs/systemstatus.php:88
+msgid "WP Version"
+msgstr "Verzia WP"
+
+#: admin/partials/tabs/systemstatus.php:93
+msgid "Installed Theme"
+msgstr "Nainštalovaná Téma"
+
+#: admin/partials/tabs/systemstatus.php:97
+msgid "Theme Version"
+msgstr "Verzia Témy"
+
+#: admin/partials/tabs/systemstatus.php:101
+msgid "Theme Author"
+msgstr "Autor Témy"
+
+#: admin/partials/tabs/systemstatus.php:106
+msgid "Published Posts"
+msgstr "Publikované Články"
+
+#: admin/partials/tabs/systemstatus.php:110
+msgid "Draft Posts"
+msgstr "Koncepty Článkov"
+
+#: admin/partials/tabs/systemstatus.php:114
+msgid "Published Pages"
+msgstr "Publikované Stránky"
+
+#: admin/partials/tabs/systemstatus.php:118
+msgid "Draft Pages"
+msgstr "Koncepty Stránok"
+
+#: admin/partials/tabs/systemstatus.php:123
+msgid "Approved Comments"
+msgstr "Schválené Komentáre"
+
+#: admin/partials/tabs/systemstatus.php:127
+msgid "Comments in Moderation"
+msgstr "Komentáre Čakajúce na Schválenie"
+
+#: admin/partials/tabs/systemstatus.php:131
+msgid "Comments in Spam"
+msgstr "Spam Komentáre"
+
+#: admin/partials/tabs/systemstatus.php:135
+msgid "Comments in Trash"
+msgstr "Komentáre v Koši"
+
+#: admin/partials/tabs/systemstatus.php:139
+msgid "Images in Gallery"
+msgstr "Obrázky v Galérii"
+
+#: admin/partials/tabs/systemstatus.php:144
+msgid "WP Multisite Enabled"
+msgstr "WP Multisite Povolené"
+
+#: admin/partials/tabs/systemstatus.php:145
+#: admin/partials/tabs/systemstatus.php:199
+#: admin/partials/tabs/systemstatus.php:244
+#: admin/partials/tabs/systemstatus.php:248
+#: admin/partials/tabs/systemstatus.php:252
+msgid "Yes"
+msgstr "Áno"
+
+#: admin/partials/tabs/systemstatus.php:145
+#: admin/partials/tabs/systemstatus.php:199
+#: admin/partials/tabs/systemstatus.php:244
+#: admin/partials/tabs/systemstatus.php:248
+#: admin/partials/tabs/systemstatus.php:252
+msgid "No"
+msgstr "Nie"
+
+#: admin/partials/tabs/systemstatus.php:148
+msgid "WP Language"
+msgstr "WP Jazyk"
+
+#: admin/partials/tabs/systemstatus.php:149
+msgid "Default"
+msgstr "Východzie nastavenie"
+
+#: admin/partials/tabs/systemstatus.php:152
+msgid "WP Debug Mode"
+msgstr "WP Debug Mod"
+
+#: admin/partials/tabs/systemstatus.php:153
+msgid "Enabled"
+msgstr "Povolené"
+
+#: admin/partials/tabs/systemstatus.php:153
+msgid "Disabled"
+msgstr "Zakázané"
+
+#: admin/partials/tabs/systemstatus.php:156
+msgid "WP Max Upload Size"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:170
+msgid "WP Remote Post"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:171
+msgid "Success"
+msgstr "Úspešne"
+
+#: admin/partials/tabs/systemstatus.php:171
+msgid "Failed"
+msgstr "Zlyhalo"
+
+#: admin/partials/tabs/systemstatus.php:180
+msgid "PHP Information"
+msgstr "PHP Informácie"
+
+#: admin/partials/tabs/systemstatus.php:186
+msgid "PHP Version"
+msgstr "Verzia PHP"
+
+#: admin/partials/tabs/systemstatus.php:190
+msgid "PHP Max Execution Time"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:194
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:198
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN Inštalované"
+
+#: admin/partials/tabs/systemstatus.php:202
+msgid "Default Time Zone"
+msgstr "Východzia Časová Zóna"
+
+#: admin/partials/tabs/systemstatus.php:215
+msgid "Memory Usage"
+msgstr "Spotreba Pamäte"
+
+#: admin/partials/tabs/systemstatus.php:219
+msgid "PHP Safe Mode"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:223
+msgid "PHP Allow URL Open"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:224
+msgid "On"
+msgstr "Zapnuté"
+
+#: admin/partials/tabs/systemstatus.php:224
+msgid "Off"
+msgstr "Vypnuté"
+
+#: admin/partials/tabs/systemstatus.php:227
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:231
+msgid "PHP Max Post Size"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:235
+msgid "PHP Max Upload Size"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:239
+msgid "PHP Output Buffer Size"
+msgstr ""
+
+#: admin/partials/tabs/systemstatus.php:243
+msgid "PHP Exif Support"
+msgstr "PHP Exif Podpora"
+
+#: admin/partials/tabs/systemstatus.php:247
+msgid "PHP IPTC Support"
+msgstr "PHP IPTC Podpora"
+
+#: admin/partials/tabs/systemstatus.php:251
+msgid "PHP XML Support"
+msgstr "PHP XML Podpora"
+
+#~ msgid "Draft"
+#~ msgstr "Koncept"
+
+#~ msgid "New Post / Page created as Draft in WordPress."
+#~ msgstr "Nový Článok / Strana vytvorený/a ako Koncept vo WordPress."
+
+#~ msgid "Orphan Comments Meta"
+#~ msgstr "Osirotené Meta informácie komentárov"
+
+#~ msgid "Orphans Posts Meta"
+#~ msgstr "Osirotené Meta informácie článkov"
+
+#~ msgid "Orphan Posts Meta holds the junk or obsolete data."
+#~ msgstr "Osirotené Meta Článkov držia nevyžiadané alebo zastaralé údaje."
+
+#~ msgid "Orphan Relationships"
+#~ msgstr "Osirotené Vzťahy"
+
+#~ msgid "Passed"
+#~ msgstr "Úspešný"
+
+#~ msgid "Database Information"
+#~ msgstr "Informácie o Databáze"
+
+#~ msgid ""
+#~ "We have tested your DB password against 600 most commonly used passwords "
+#~ "on the internet"
+#~ msgstr ""
+#~ "Otestovali sme Vaše heslo do Databázy oproti viac ako 1450 najviac "
+#~ "používaným heslám na internete."
+
+#~ msgid "Premium Features"
+#~ msgstr "Prémiové Vlastnosti"
+
+#~ msgid "Scheduler"
+#~ msgstr "Plánovač"
+
+#~ msgid "Enable Scheduler"
+#~ msgstr "Zapnúť Plánovač"
+
+#~ msgid "Select Time"
+#~ msgstr "Vyberte čas"
+
+#~ msgid "Once a Day"
+#~ msgstr "Raz denne"
+
+#~ msgid "Once a Week"
+#~ msgstr "Raz týždenne"
+
+#~ msgid "Once a Month"
+#~ msgstr "Raz mesačne"
+
+#~ msgid "Fix Issues"
+#~ msgstr "Opravit Problemy"
+
+#~ msgid "Data type: "
+#~ msgstr "Datovy typ:"
+
+#~ msgid "Plugin Name"
+#~ msgstr "Nazov Pluginu"
+
+#~ msgid "Plugin Active"
+#~ msgstr "Plugin Aktivny"
